@@ -1,7 +1,8 @@
 // Singly Linked List - Java
-
 //insert at begining in linked list 
 //insert at end in the linked list
+
+
 public class LinkedListInsertion 
 {
    class Node
