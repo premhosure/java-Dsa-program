@@ -13,5 +13,6 @@ It is designed to help build problem-solving skills and keep track of my prepara
 - ✅ Patterns
 - ✅ Arrays
 - ✅ Strings
+- ✅ Sorting
 
 ---
